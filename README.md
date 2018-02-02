@@ -41,8 +41,8 @@ DataX目前已经有了比较全面的插件体系，主流的RDBMS数据库、N
 |              | DRDS |     √     |     √     |[读](https://github.com/alibaba/DataX/blob/master/drdsreader/doc/drdsreader.md) 、[写](https://github.com/alibaba/DataX/blob/master/drdswriter/doc/drdswriter.md)|
 |              | 达梦         |     √     |     √     |[读]() 、[写]()|
 |              | 通用RDBMS(支持所有关系型数据库)         |     √     |     √     |[读]() 、[写]()|
-| 阿里云数仓数据存储    | ODPS       |     √     |     √     |![读]() 、![写]()|
-|              | ADS        |           |     √     |[读](https://github.com/alibaba/DataX/blob/master/adsreader/doc/adsreader.md) 、[写](https://github.com/alibaba/DataX/blob/master/adswriter/doc/adswriter.md)|
+| 阿里云数仓数据存储    | ODPS       |     √     |     √     |[读](https://github.com/alibaba/DataX/blob/master/odpsreader/doc/odpsreader.md) 、[写](https://github.com/alibaba/DataX/blob/master/odpsswriter/doc/odpswriter.md)|
+|              | ADS        |           |     √     |[写](https://github.com/alibaba/DataX/blob/master/adswriter/doc/adswriter.md)|
 |              | OSS        |     √     |     √     |[读](https://github.com/alibaba/DataX/blob/master/ossreader/doc/ossreader.md) 、[写](https://github.com/alibaba/DataX/blob/master/osswriter/doc/osswriter.md)|
 |              | OCS        |     √     |     √     |[读](https://github.com/alibaba/DataX/blob/master/ocsreader/doc/ocsreader.md) 、[写](https://github.com/alibaba/DataX/blob/master/ocswriter/doc/ocswriter.md)|
 | NoSQL数据存储    | OTS        |     √     |     √     |[读](https://github.com/alibaba/DataX/blob/master/otsreader/doc/otsreader.md) 、[写](https://github.com/alibaba/DataX/blob/master/otswriter/doc/otswriter.md)|
